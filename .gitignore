@@ -24,7 +24,8 @@
 
 # Ignore specific files 
 PPOL5202_Syllabus_Fall2023.pdf 
-data/*.csv
+data/global_power_plant_database.csv
+data/us-state-capitals.csv
 
 # Ignore specific directories
 pset_1/
