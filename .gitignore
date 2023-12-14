@@ -24,6 +24,7 @@
 
 # Ignore specific files 
 PPOL5202_Syllabus_Fall2023.pdf 
+data/*.csv
 
 # Ignore specific directories
 pset_1/
