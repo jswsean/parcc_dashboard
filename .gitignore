@@ -1,0 +1,35 @@
+# Ignore specific file formats
+*.Rproj
+.Rdata
+*.aux
+*.log
+*.bbl
+*.blg
+*.nav
+*.out
+*.gz
+*.snm
+*.toc
+*.bak
+.Rproj.user
+~/.boxr-oauth
+*.code-workspace
+*synctex*
+*.DS_Store
+.DS_Store?
+./*/.DS_Store
+*.xlsx
+*.xls
+.Rhistory
+
+# Ignore specific files 
+PPOL5202_Syllabus_Fall2023.pdf 
+
+# Ignore specific directories
+pset_1/
+pset_2/
+viz_tutorial/
+event_reflection/
+Global_Power_Plant_Database/
+DVOD/
+week_*/

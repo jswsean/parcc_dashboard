@@ -1,0 +1,12 @@
+name: parcc_score_dashboard
+title:
+username: shambali
+account: shambali
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10438775
+bundleId: 8047005
+url: https://shambali.shinyapps.io/parcc_score_dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
